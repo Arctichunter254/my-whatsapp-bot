@@ -1,16 +1,13 @@
 {
-  "name": "watsapp-ai-bot",
+  "name": "my-whatsapp-bot",
   "version": "1.0.0",
-  "description": "",
   "main": "Index.js",
   "scripts": {
     "start": "node Index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.18",
-    "pino": "^9.3.2"
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
   }
 }
